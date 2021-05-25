@@ -5,6 +5,7 @@
        <h3 class="mb-3">{{album.title}}</h3>
        <span class="fw-normal">{{album.author}}</span>
        <span>{{album.year}}</span>
+       <h6>{{album.genre}}</h6>
   </div>
 
 </template>
